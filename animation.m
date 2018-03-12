@@ -1,3 +1,4 @@
+% Initializing parameters
 n = 40; phi = linspace(0,2*pi,n);
 a = 1; b = 2.5; e = 0.25; nF = 5;
 c = 0.5; d = 1; f = 0.06;
